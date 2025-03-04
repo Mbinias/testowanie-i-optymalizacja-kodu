@@ -1,1 +1,1 @@
-zmieniona zawartość dla konfliktu v2 dodane coś
+plik testowy branch1 -> branch2
