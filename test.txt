@@ -1,1 +1,1 @@
-plik testowy branch1
+plik testowy branch1 -> branch2
